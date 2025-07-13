@@ -1,0 +1,5 @@
+pydantic==1.10.13
+langchain==0.0.350
+langchain-core==0.1.28
+langchain-community==0.0.21
+langchain-cohere==0.1.3
